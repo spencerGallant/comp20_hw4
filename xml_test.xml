@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml_css.css"?> 
+
+<set-list>
+	<intro>Set List for Cover Band "Covers"</intro> 
+	<intro>Set List for Cover Band "Covers"</intro> 
+	<song>
+		<title lang="en">She's Always a Woman</title>
+		<artist>Billy Joel</artist>
+		<genre>Rock</genre>
+		<year>1977</year>
+	</song>
+
+	<song>
+		<title lang="en">Penny Lane</title>
+		<artist>The Beatles</artist>
+		<genre>Psychadelic pop</genre>
+		<genre>Progressive pop</genre>
+		<genre>Baroque pop</genre>
+		<genre>Psychedelic rock</genre>
+		<year>1967</year>
+	</song>
+
+	<song>
+		<title lang="en">Work Song</title>
+		<artist>Hozier</artist>
+		<genre>Soul</genre>
+		<genre>Blues</genre>
+		<genre>Gospel</genre>
+		<year>2013</year>
+	</song>
+
+	<song>
+		<title lang="en">If I were a boy</title>
+		<artist>Beyoncé</artist>
+		<genre>Rythms and Blues</genre>
+		<genre>Pop</genre>
+		<year>2008</year>
+	</song>
+
+	<song>
+		<title lang="en">Teardrops on my Guitar</title>
+		<artist>Taylor Swift</artist>
+		<genre>Country pop</genre>
+		<year>2006</year>
+	</song>
+
+	<song>
+		<title lang="en">Reno</title>
+		<artist>Finn the Band</artist>
+		<genre>Reformed Funk</genre>
+		<year>2019</year>
+	</song>
+
+	<song>
+		<title lang="en">Maybe I'm Amazed</title>
+		<artist>Paul Mcartney</artist>
+		<genre>Soft Rock</genre>
+		<year>1970</year>
+	</song>
+
+	<song>
+		<title lang="en">Make You Feel My Love</title>
+		<artist>Adele</artist>
+		<genre>Soul</genre>
+		<genre>Pop</genre>
+		<year>2008</year>
+	</song>
+
+		<song>
+		<title lang="en">When I was Your Man</title>
+		<artist>Bruno Mars</artist>
+		<genre>Pop</genre>
+		<year>2013</year>
+	</song>
+
+		<song>
+		<title lang="en">Jealous</title>
+		<artist>Labrinth</artist>
+		<genre>Rythms and Blues</genre>
+		<year>2014</year>
+	</song>
+
+</set-list>
+<!--   <band category="web" cover="paperback">
+    <title lang="en">Learning XML</title>
+    <author>Erik T. Ray</author>
+    <year>2003</year>
+    <price>39.95</price>
+</band> -->
+

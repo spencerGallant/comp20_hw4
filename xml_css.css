@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+
+ intro { 
+     color: black; 
+     font-weight : bold; 
+     font-size : 80px; 
+     background-color : powderblue; 
+     width: 100%;
+     text-align: center;
+	 display:block; 
+	 text-decoration: underline;
+} 
+
+
+
+year { 
+     font-size : 20px; 
+     width: 100%;
+     text-align: center;
+     color: green;
+     text-align: center;
+    display:block; 
+
+} 
+artist { 
+     font-size : 20px; 
+     width: 100%;
+     text-align: center;
+     color: red;
+     text-align: center;
+         display:block; 
+
+} 
+genre { 
+     font-size : 20px; 
+     width: 100%;
+     text-align: center;
+     color: blue;
+     text-align: center;
+     display:block; 
+} 
+song { 
+     font-size : 40px; 
+     width: 100%;
+     text-align: center;
+     color: black;
+     text-align: center;
+     display:block; 
+} 
+
+
